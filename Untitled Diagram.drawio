@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T03:49:42.147Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="cVUgFcYmuLmMXEJsDU0e" version="13.8.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-03T04:31:25.214Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="qJHD4MnJWL5xXmQpw54e" version="13.8.8" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
-    <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -137,7 +137,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NP96JUk-zomSuXR2eYI8" name="Language Selection">
-    <mxGraphModel dx="1021" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="XNVSRuxR_t44QMIjwxG1-0" />
         <mxCell id="XNVSRuxR_t44QMIjwxG1-1" parent="XNVSRuxR_t44QMIjwxG1-0" />
@@ -213,6 +213,130 @@
         </mxCell>
         <mxCell id="jlVox8yY6K0Oi9bAq_ej-22" value="System do not handle well only will happen (rare case)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XNVSRuxR_t44QMIjwxG1-1">
           <mxGeometry x="220" y="160" width="310" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zQ1zC0l2z43dEUZwNcpW-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Language Selection&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="XNVSRuxR_t44QMIjwxG1-1">
+          <mxGeometry x="20" y="30" width="190" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NcqKCsRoOt5C_vWAzytk" name="Employee Statutory">
+    <mxGraphModel dx="1240" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="Ta-xo2IJvp7dTiizBVcs-0" />
+        <mxCell id="Ta-xo2IJvp7dTiizBVcs-1" parent="Ta-xo2IJvp7dTiizBVcs-0" />
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-0" target="E4KvRgQG7fiURb4fW0jU-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-0" value="Login User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="70" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-1" target="E4KvRgQG7fiURb4fW0jU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-1" value="Edit existing employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="170" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-3" target="E4KvRgQG7fiURb4fW0jU-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-3" value="Navigate to Statutory tab" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="370" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-5" target="E4KvRgQG7fiURb4fW0jU-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-5" value="Check Company Payroll Country" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="370" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-7" target="E4KvRgQG7fiURb4fW0jU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-7" value="Render available controls based on payroll country" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="370" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-9" target="E4KvRgQG7fiURb4fW0jU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-9" value="Create/Update payroll related field" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="370" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-11" target="E4KvRgQG7fiURb4fW0jU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-11" value="Save the record" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-15" target="E4KvRgQG7fiURb4fW0jU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-15" target="E4KvRgQG7fiURb4fW0jU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-15" value="Validate Mandatory Fields" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="720" y="190" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-17" target="E4KvRgQG7fiURb4fW0jU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-17" value="Commit the save action" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="705" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-19" value="Passed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="760" y="270" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-20" target="E4KvRgQG7fiURb4fW0jU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-20" value="Show Required Field Error Msg" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="705" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-22" value="Failed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="765" y="170" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-23" value="Refer Validation sheet for more details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="500" y="160" width="220" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-24" value="" style="endArrow=classic;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="180" as="sourcePoint" />
+            <mxPoint x="740" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-25" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="640" y="440" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Employee Statutory&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="30" y="30" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-29" target="E4KvRgQG7fiURb4fW0jU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-29" value="Login User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="70" y="530" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-30" target="E4KvRgQG7fiURb4fW0jU-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-30" value="Create New Employee" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="170" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-31" target="E4KvRgQG7fiURb4fW0jU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-31" value="Refer Create Employee worksheet" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="170" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Ta-xo2IJvp7dTiizBVcs-1" source="E4KvRgQG7fiURb4fW0jU-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-33" value="Save Record" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E4KvRgQG7fiURb4fW0jU-36" value="Upon save will change to edit mode &lt;br&gt;when completing create new employee workflow" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Ta-xo2IJvp7dTiizBVcs-1">
+          <mxGeometry x="80" y="190" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
