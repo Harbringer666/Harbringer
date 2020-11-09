@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T04:51:34.442Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="u8DM0eRHBl2EmRu5cZ3D" version="13.9.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-09T04:53:36.535Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-K_84_-C8CsVXiiAwDr4" version="13.9.1" type="github" pages="9">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -751,7 +751,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="l48i5U6F4CmFLZuXYUET" name="Page-9">
+  <diagram id="l48i5U6F4CmFLZuXYUET" name="Feedback Widget">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LA6S6aMcjiz-J3FqEzfc-0" />
@@ -807,6 +807,9 @@
         </mxCell>
         <mxCell id="LA6S6aMcjiz-J3FqEzfc-15" value="Display Submit Successfully Message" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="LA6S6aMcjiz-J3FqEzfc-1">
           <mxGeometry x="540" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VvHotKKFxCiXjYTeZ7AX-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Feedback Widget&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LA6S6aMcjiz-J3FqEzfc-1">
+          <mxGeometry x="40" y="30" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
