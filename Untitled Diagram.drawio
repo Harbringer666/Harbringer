@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T04:53:36.535Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="-K_84_-C8CsVXiiAwDr4" version="13.9.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-09T05:07:20.616Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="XTCjdL1aqYZ4Iq-inXT5" version="13.9.1" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -810,6 +810,71 @@
         </mxCell>
         <mxCell id="VvHotKKFxCiXjYTeZ7AX-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Feedback Widget&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LA6S6aMcjiz-J3FqEzfc-1">
           <mxGeometry x="40" y="30" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0fEaNf8_4wrCRQfhD6fX" name="Page-10">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="6fgnQ2RLAnjj8KJZsfVc-0" />
+        <mxCell id="6fgnQ2RLAnjj8KJZsfVc-1" parent="6fgnQ2RLAnjj8KJZsfVc-0" />
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1" source="0L-kQD_fAk9LFRfM2fzJ-1" target="0L-kQD_fAk9LFRfM2fzJ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="50" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1" source="0L-kQD_fAk9LFRfM2fzJ-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-3" value="Navigate To Homepage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="130" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1" source="0L-kQD_fAk9LFRfM2fzJ-6" target="0L-kQD_fAk9LFRfM2fzJ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1" source="0L-kQD_fAk9LFRfM2fzJ-6" target="0L-kQD_fAk9LFRfM2fzJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-6" value="Is Show Feedback widget Dashboard" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="290" y="70" width="130" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1" source="0L-kQD_fAk9LFRfM2fzJ-8" target="0L-kQD_fAk9LFRfM2fzJ-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-8" value="Render feedback widget dashboard" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="295" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-9" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="350" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1" source="0L-kQD_fAk9LFRfM2fzJ-11" target="0L-kQD_fAk9LFRfM2fzJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-11" value="Render all categorized feedback&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="295" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-12" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="510" y="305" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="530" y="170" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-14" value="&lt;h1&gt;Dashboard (Pie chart, Grid based)&lt;/h1&gt;&lt;p&gt;- Listing -&amp;gt; Feedback type, Feedback By, Feedback Date, Module, Screen, Remarks, Attachment, Rating (Only applicable to review feedback type)&lt;/p&gt;&lt;p&gt;- Pie chart -&amp;gt; Categorize the feedback type in percentage format for bird view analysis.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="270" y="370" width="450" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-15" value="" style="curved=1;endArrow=classic;html=1;exitX=0.004;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1" source="0L-kQD_fAk9LFRfM2fzJ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="370" as="sourcePoint" />
+            <mxPoint x="290" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="380" />
+              <mxPoint x="240" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
