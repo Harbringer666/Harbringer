@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T07:33:55.937Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="X7WM1PdHLgyP2lv6eRhz" version="13.9.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-11-09T07:37:17.680Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Fmn-9EEQprW0mbdpCv71" version="13.9.1" type="github" pages="14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -902,13 +902,13 @@
         <mxCell id="HBLT7ke-1Yo3M5krxjX0-5" value="Setup Scheduler setting" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="HBLT7ke-1Yo3M5krxjX0-1">
           <mxGeometry x="230" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HBLT7ke-1Yo3M5krxjX0-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Setting Detail&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;u&gt;Enter execution details as below:&lt;/u&gt;&lt;/p&gt;&lt;p&gt;- Date &amp;amp; Time (when to execute)&lt;/p&gt;&lt;p&gt;- Recurring For (which bill month)&lt;/p&gt;&lt;p&gt;- Notification (To, CC, BCC)&lt;/p&gt;&lt;p&gt;&lt;b&gt;[Note: concept similar to Year End Activities (HRMSv3)]&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="HBLT7ke-1Yo3M5krxjX0-1">
-          <mxGeometry x="30" y="190" width="160" height="250" as="geometry" />
+        <mxCell id="HBLT7ke-1Yo3M5krxjX0-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Setting Detail&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;u&gt;Enter execution details as below:&lt;/u&gt;&lt;/p&gt;&lt;p&gt;- Enable/Disable the scheduler&lt;/p&gt;&lt;p&gt;- Date &amp;amp; Time (when to execute)&lt;/p&gt;&lt;p&gt;- Recurring For (which bill month)&lt;/p&gt;&lt;p&gt;- Notification (To, CC, BCC)&lt;/p&gt;&lt;p&gt;&lt;b&gt;[Note: concept similar to Year End Activities (HRMSv3)]&lt;/b&gt;&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="HBLT7ke-1Yo3M5krxjX0-1">
+          <mxGeometry x="20" y="230" width="330" height="200" as="geometry" />
         </mxCell>
         <mxCell id="HBLT7ke-1Yo3M5krxjX0-9" value="" style="endArrow=classic;html=1;" edge="1" parent="HBLT7ke-1Yo3M5krxjX0-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="205" as="sourcePoint" />
-            <mxPoint x="220" y="190" as="targetPoint" />
+            <mxPoint x="160" y="230" as="sourcePoint" />
+            <mxPoint x="220" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HBLT7ke-1Yo3M5krxjX0-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HBLT7ke-1Yo3M5krxjX0-1" source="HBLT7ke-1Yo3M5krxjX0-10" target="HBLT7ke-1Yo3M5krxjX0-12">
@@ -955,6 +955,20 @@
         </mxCell>
         <mxCell id="HBLT7ke-1Yo3M5krxjX0-27" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Billing Checklist Year End Scheduler Setup&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="HBLT7ke-1Yo3M5krxjX0-1">
           <mxGeometry x="40" y="40" width="390" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zRKPvdLCePvsK6UH0pk4" name="BC Year End Delete Scheduler ">
+    <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="s2jzzB-YSTLl9gsp3SBf-0" />
+        <mxCell id="s2jzzB-YSTLl9gsp3SBf-1" parent="s2jzzB-YSTLl9gsp3SBf-0" />
+        <mxCell id="Prxw7RYhYX37hYIK0f1--0" value="Login User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="50" y="90" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QCJub0IMKLcUMAajjaC2-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Billing Checklist Year End Scheduler Setup (Delete)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-30" y="40" width="570" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
