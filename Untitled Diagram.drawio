@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T07:37:17.680Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="Fmn-9EEQprW0mbdpCv71" version="13.9.1" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-11-09T07:44:40.987Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="kHvT4ZMVARt3GIHUSrkd" version="13.9.1" type="github" pages="14">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -960,15 +960,67 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zRKPvdLCePvsK6UH0pk4" name="BC Year End Delete Scheduler ">
-    <mxGraphModel dx="1718" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2721" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="s2jzzB-YSTLl9gsp3SBf-0" />
         <mxCell id="s2jzzB-YSTLl9gsp3SBf-1" parent="s2jzzB-YSTLl9gsp3SBf-0" />
-        <mxCell id="Prxw7RYhYX37hYIK0f1--0" value="Login User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
-          <mxGeometry x="50" y="90" width="30" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="QCJub0IMKLcUMAajjaC2-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Billing Checklist Year End Scheduler Setup (Delete)&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
-          <mxGeometry x="-30" y="40" width="570" height="20" as="geometry" />
+          <mxGeometry x="-1670" y="50" width="500" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="lfeFfZmqegN0CMfmdbB9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="s2jzzB-YSTLl9gsp3SBf-1" source="lfeFfZmqegN0CMfmdbB9-0" target="lfeFfZmqegN0CMfmdbB9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfeFfZmqegN0CMfmdbB9-0" value="Login User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1630" y="120" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfeFfZmqegN0CMfmdbB9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="s2jzzB-YSTLl9gsp3SBf-1" source="lfeFfZmqegN0CMfmdbB9-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1300" y="149.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lfeFfZmqegN0CMfmdbB9-2" value="Click Delete button" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1530" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lfeFfZmqegN0CMfmdbB9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="s2jzzB-YSTLl9gsp3SBf-1" target="lfeFfZmqegN0CMfmdbB9-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1240" y="179.9999999999999" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="s2jzzB-YSTLl9gsp3SBf-1" source="lfeFfZmqegN0CMfmdbB9-6" target="hI4imALGBuu7MUBmswv1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lfeFfZmqegN0CMfmdbB9-6" value="Delete Scheduler setup setting" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1300" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="s2jzzB-YSTLl9gsp3SBf-1" source="hI4imALGBuu7MUBmswv1-0" target="hI4imALGBuu7MUBmswv1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-0" value="Display Delete Successful Message" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1140" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-2" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#000000;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-980" y="325" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="s2jzzB-YSTLl9gsp3SBf-1" source="hI4imALGBuu7MUBmswv1-4" target="hI4imALGBuu7MUBmswv1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-4" value="Confirm Delete Scheduler?" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1300" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="s2jzzB-YSTLl9gsp3SBf-1" source="hI4imALGBuu7MUBmswv1-5" target="hI4imALGBuu7MUBmswv1-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-5" value="Delete Job Scheduler" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1300" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-13" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1240" y="200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-14" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1095" y="120" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hI4imALGBuu7MUBmswv1-17" value="&lt;h1&gt;&lt;u&gt;Highlight&lt;/u&gt;&lt;/h1&gt;&lt;p&gt;User can just disable the setting by untick the enable scheduler checkbox instead of deleting the whole record if really want to retain the setting for future use&lt;/p&gt;" style="text;html=1;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;strokeColor=#000000;" vertex="1" parent="s2jzzB-YSTLl9gsp3SBf-1">
+          <mxGeometry x="-1630" y="250" width="190" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
