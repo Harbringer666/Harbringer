@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T07:20:17.228Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="gIrufiVWDwCPmisnRYCi" version="13.9.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-11-09T07:26:04.359Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="XAiDN9Hn2o-JFyoT6wV9" version="13.9.1" type="github" pages="13">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1025,7 +1025,7 @@
         <mxCell id="EFWSy945jFlxPHV-SSuh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="EFWSy945jFlxPHV-SSuh-1" source="EFWSy945jFlxPHV-SSuh-14" target="EFWSy945jFlxPHV-SSuh-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EFWSy945jFlxPHV-SSuh-14" value="Insert Audit log records" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EFWSy945jFlxPHV-SSuh-1">
+        <mxCell id="EFWSy945jFlxPHV-SSuh-14" value="Insert Process logs record" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="EFWSy945jFlxPHV-SSuh-1">
           <mxGeometry x="630" y="220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EFWSy945jFlxPHV-SSuh-17" value="&lt;b&gt;Yes. Total Success + 1&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="EFWSy945jFlxPHV-SSuh-1">
@@ -1060,10 +1060,19 @@
           <mxGeometry x="200" y="300" width="165" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ikMXF88_dTniK0JjwmRl-6" value="&lt;b&gt;Trigger by scheduler&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EFWSy945jFlxPHV-SSuh-1">
-          <mxGeometry x="40" y="100" width="160" height="20" as="geometry" />
+          <mxGeometry x="15" y="100" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ikMXF88_dTniK0JjwmRl-7" value="&lt;b&gt;Trigger by user&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="EFWSy945jFlxPHV-SSuh-1">
-          <mxGeometry x="30" y="275" width="160" height="20" as="geometry" />
+          <mxGeometry y="275" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EedwpRM2yTR65U_G9qW6-1" value="User go to Billing Checklist Generator and select bill month &amp;amp; which BCT to process" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#000000;" vertex="1" parent="EFWSy945jFlxPHV-SSuh-1">
+          <mxGeometry x="30" y="420" width="260" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EedwpRM2yTR65U_G9qW6-2" value="" style="endArrow=classic;html=1;" edge="1" parent="EFWSy945jFlxPHV-SSuh-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="94.5" y="410" as="sourcePoint" />
+            <mxPoint x="94.5" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
