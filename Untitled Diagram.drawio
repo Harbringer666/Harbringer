@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T05:23:19.477Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="9dlW9d7MwuECvDpcjxzw" version="13.9.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-11-09T05:27:51.334Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="QR-ZtZ0NOqjl0b7hajT1" version="13.9.1" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -733,20 +733,16 @@
           <mxGeometry x="530" y="170" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cUrYd7fr2DI-5qpvAE8U-18" value="&lt;h1&gt;Dashboard&lt;/h1&gt;&lt;p&gt;Only contracts that contained disbursement items that yet to assign to any corresponding work scope would be in this dashboard lists. Also included a button for the purpose of fast entry assignment for unassigned disbursement item.&lt;b&gt;[Note: data access right applied]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="cUrYd7fr2DI-5qpvAE8U-1">
-          <mxGeometry x="270" y="370" width="450" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="cUrYd7fr2DI-5qpvAE8U-19" value="" style="curved=1;endArrow=classic;html=1;exitX=0.004;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="cUrYd7fr2DI-5qpvAE8U-1" source="cUrYd7fr2DI-5qpvAE8U-18">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="370" as="sourcePoint" />
-            <mxPoint x="290" y="320" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="220" y="380" />
-              <mxPoint x="240" y="320" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="570" y="150" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="cUrYd7fr2DI-5qpvAE8U-20" value="&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Work Scope Unassigned Disbursement Item Dashboard&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cUrYd7fr2DI-5qpvAE8U-1">
           <mxGeometry x="40" y="30" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn8NAOMdVXhd0JnAQSZr-1" value="" style="endArrow=classic;html=1;" edge="1" parent="cUrYd7fr2DI-5qpvAE8U-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="270" as="sourcePoint" />
+            <mxPoint x="427.5" y="305" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
