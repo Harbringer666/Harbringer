@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T05:14:45.860Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="eN0QXtgaHkF0PyhqKKpn" version="13.9.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-11-09T05:23:19.477Z" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="9dlW9d7MwuECvDpcjxzw" version="13.9.1" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Login">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -863,18 +863,22 @@
         <mxCell id="0L-kQD_fAk9LFRfM2fzJ-13" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
           <mxGeometry x="530" y="170" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-14" value="&lt;h1&gt;Dashboard (Pie chart, Grid based)&lt;/h1&gt;&lt;p&gt;- Listing -&amp;gt; Feedback type, Feedback By, Feedback Date, Module, Screen, Remarks, Attachment, Rating (Only applicable to review feedback type), Respond button (Only applicable to question feedback type)&lt;/p&gt;&lt;p&gt;- Pie chart -&amp;gt; Categorize the feedback type in percentage format for bird view analysis.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
-          <mxGeometry x="270" y="370" width="450" height="130" as="geometry" />
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-14" value="&lt;h1&gt;Dashboard (Pie chart, Grid based)&lt;/h1&gt;&lt;p&gt;- Listing -&amp;gt; Feedback type, Feedback By, Feedback Date, Module, Screen, Remarks, Attachment, Rating (Only applicable to review feedback type), &lt;b&gt;Action button&lt;/b&gt; -&amp;gt; &lt;b&gt;Respond &lt;/b&gt;button (Only applicable to question feedback type), &lt;b&gt;Close &lt;/b&gt;button, &lt;b&gt;View &lt;/b&gt;button&lt;/p&gt;&lt;p&gt;Purpose of close button - In future if want to do further analysis on which item had been closed. eg Issue -&amp;gt; do sharepoint already created for this issue?, Question -&amp;gt; do user enquiry been answered or resolved?&amp;nbsp;&lt;/p&gt;&lt;p&gt;- Pie chart -&amp;gt; Categorize the feedback type in percentage format for bird view analysis.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="60" y="370" width="740" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-15" value="" style="curved=1;endArrow=classic;html=1;exitX=0.004;exitY=0.425;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1" source="0L-kQD_fAk9LFRfM2fzJ-14">
+        <mxCell id="0L-kQD_fAk9LFRfM2fzJ-15" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="370" as="sourcePoint" />
+            <mxPoint x="210" y="380" as="sourcePoint" />
             <mxPoint x="290" y="320" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="380" />
+              <mxPoint x="188" y="320" />
               <mxPoint x="240" y="320" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="f71ONAUOez1-GneD8TLn-0" value="&lt;font style=&quot;font-size: 18px&quot;&gt;&lt;b&gt;Feedback dashboard&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="6fgnQ2RLAnjj8KJZsfVc-1">
+          <mxGeometry x="20" y="40" width="230" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
